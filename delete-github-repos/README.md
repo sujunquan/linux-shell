@@ -4,5 +4,5 @@
 
 # 脚本使用方法
 1. 将要删除的github仓库写入repos.txt文件，替换${user_name}/${repository_name}。
-2. 将personal token替换到delete-repo.sh XXXXXXXXXXX。
-3. 上述设置后，执行sh delete-repo.sh。
+2. 将personal token替换到delete-repos.sh XXXXXXXXXXX。
+3. 上述设置后，执行sh delete-repos.sh。
